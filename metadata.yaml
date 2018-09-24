@@ -1,5 +1,8 @@
 _repo: Ecclesiastical-Vestments-Their-development-and-history_56494
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56494-h/images/cover.jpg
 creator:
   author:
     agent_name: Macalister, Robert Alexander Stewart
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '6739'
     url: http://www.gutenberg.org/2009/agents/6739
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56494#Ecclesiastical-Vestments-Their-development-and-history
 gutenberg_issued: '2018-02-04'
 gutenberg_type: Text
 identifiers:
